@@ -1,0 +1,14 @@
+.react-flow .react-flow__handle {
+  width: 30px;
+  height: 14px;
+  border-radius: 3px;
+}
+
+.react-flow .black .react-flow__handle {
+  background-color: black;
+}
+
+.react-flow .white .react-flow__handle {
+  background-color: white;
+  border: 1px solid black;
+}
